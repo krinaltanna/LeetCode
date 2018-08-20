@@ -1,6 +1,6 @@
 /*
 
-https://leetcode.com/problems/zigzag-conversion/
+https://leetcode.com/problems/longest-palindromic-substring/
 
 Maintain a 2D matrix a[][] of boolean
 --a[i][j] = true if string from character i to character j is true
