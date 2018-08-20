@@ -1,6 +1,7 @@
 /*
 
-----This is wrong approach I tried first
+https://leetcode.com/problems/zigzag-conversion/
+
 Maintain a 2D matrix a[][] of boolean
 --a[i][j] = true if string from character i to character j is true
 --All single characters are palindromes so all a[i][i] =true
